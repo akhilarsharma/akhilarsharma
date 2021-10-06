@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dragonminds
-- 👀 I’m interested in ... data manipulation, data cleaning, data visualisation, machine learning, applying data analytics to financial data 
-- 🌱 I’m currently learning ... python and mysql 
+- 👋 Hi, I’m Akhila
+- 👀 I’m interested in ... data manipulation, data cleaning, data visualisation, machine learning and telling stories through data using Tableau and Python 
+- 🌱 I’m currently learning ... python and sql server 
 - 💞️ I’m looking to collaborate on ... data projects
-- 📫 How to reach me ... twinkerminds@gmail.com
+- 📫 How to reach me ... akhilarsharma@gmail.com
 
 <!---
 dragonminds/dragonminds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
