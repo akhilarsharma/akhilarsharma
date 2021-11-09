@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akhila
-- 👀 I’m interested in ... data manipulation, data cleaning, data visualisation, machine learning and telling stories through data using Tableau and Python 
+- 👀 I’m interested in ... telling stories through data analysis and visualisation using tools such as Python, Tableau, SQL and Excel
 - 🌱 I’m currently learning ... python and sql server 
 - 💞️ I’m looking to collaborate on ... data projects
 - 📫 How to reach me ... akhilarsharma@gmail.com
